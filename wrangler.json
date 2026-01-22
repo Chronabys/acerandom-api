@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "acerandom-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a26342e0-9827-4818-912c-1651c9f4db1e",
+			"database_name": "acerandom-d1"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
